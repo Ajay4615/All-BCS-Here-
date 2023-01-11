@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-decoration: none;
 }
 .wrapper{
     font-family: 'raleway';
@@ -42,6 +43,7 @@
 .card i{
     margin: 20px;
     color: #6af1b4;
+    
 }
 .card h2{
     margin-bottom: 12px;
